@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "bin/": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
